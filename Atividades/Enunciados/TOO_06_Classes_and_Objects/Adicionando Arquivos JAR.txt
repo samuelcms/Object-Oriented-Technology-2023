@@ -1,0 +1,4 @@
+- Criar uma pasta "jar", que fica no mesmo nível de "bin" e "src";
+- Adicionar o arquivo na pasta criada;
+- Clicar com o botão direito sobre o nome do arquivo para abrir o menu;
+- Clicar em "Add to Build Path".

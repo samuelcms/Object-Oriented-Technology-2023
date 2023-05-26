@@ -1,0 +1,31 @@
+Exercício: Caminhada
+
+------ Usuário  ------
+Nome: Bruno Silva
+Sexo: masculino
+Altura: 1,70 m
+Peso: 76,0 Kg
+Data de nascimento: 22/04/1980
+
+------ Detalhes do exercício ------ 
+Data: 21/05/2022
+Tempo: 8:00 - 9:30
+Duração: 90m0s
+Distância: 10,25 Km
+Calorias perdidas: 515 Kcal
+Passos: 11.120
+Velocidade média: 7,1 Km/h
+Velocidade máxima: 9,5 Km/h
+Ritmo médio: 09’60” /Km
+Ritmo máximo: 07’30” /Km
+Menor elevação: 1.055 m
+Maior elevação: 1.180 m
+
+------ Ritmo ------ 
+1 Km: 08’35” 
+2 Km: 09’10”
+3 Km: 09’14”
+4 Km: 09’06”
+5 Km: 08’59”
+6 Km: 09’12”
+6,75 Km: 09’50”
