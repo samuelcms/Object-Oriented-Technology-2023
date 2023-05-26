@@ -1,0 +1,16 @@
+Exercício: Basquete
+
+------ Usuário  ------
+Nome: Afonso Eldorico
+Sexo: masculino
+Altura: 1,75 m
+Peso: 90,0 Kg
+Data de nascimento: 12/08/1990
+
+------ Detalhes do exercício ------ 
+Data: 20/05/2022
+Tempo: 15:00 - 15:30
+Duração: 30m0s
+Distância: 4,54 Km
+Calorias perdidas: 580 Kcal
+Passos: 4.152
