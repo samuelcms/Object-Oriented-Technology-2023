@@ -1,0 +1,24 @@
+00:00:01.065289 VirtualBox GUI VM Selector Window 7.0.4 r154605 win.amd64 (Nov 16 2022 15:33:13) release log
+00:00:01.065290 Log opened 2023-06-27T22:20:02.134145700Z
+00:00:01.065291 Build Type: release
+00:00:01.065295 OS Product: Windows 10
+00:00:01.065296 OS Release: 10.0.19045
+00:00:01.065296 OS Service Pack: 
+00:00:01.078543 DMI Product Name: OptiPlex 7010
+00:00:01.082750 DMI Product Version: 01
+00:00:01.082762 Firmware type: BIOS
+00:00:01.082769 Host RAM: 8146MB (7.9GB) total, 3052MB (2.9GB) available
+00:00:01.083858 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:01.083860 Process ID: 13076
+00:00:01.083860 Package type: WINDOWS_64BITS_GENERIC
+00:00:01.084486 Qt version: 5.15.2
+00:00:01.087789 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:01.158071 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:03.069966 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:15.922247 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:21.366402 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:22.353347 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:28.306025 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:35.649392 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:35.106876 GUI: UICommon: Handling aboutToQuit request..
+00:03:35.846997 GUI: UICommon: aboutToQuit request handled!

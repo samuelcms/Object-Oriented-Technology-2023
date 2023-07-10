@@ -1,0 +1,20 @@
+-----------------------------------------------------------------------------------
+Arquivo: disciplinas_filmes.txt
+Conteúdo: Disciplina (nome - nota) e Filme (nome - duração m)
+------------------------------------------------------------------------------------
+After  - 120 m
+Filosofia - 10,0
+Geografia - 9,5
+Need for Speed  - 160 m
+Sociologia - 9,0
+Titanic  - 320 m
+-----------------------------------------------------------------------------------
+Arquivo: disciplinas_filmes.txt
+Conteúdo: Disciplina (nome - nota) e Filme (nome - duração m)
+------------------------------------------------------------------------------------
+After  - 120 m
+Filosofia - 10,0
+Geografia - 9,5
+Need for Speed  - 160 m
+Sociologia - 9,0
+Titanic  - 320 m
